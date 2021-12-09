@@ -1,2 +1,2 @@
-# http://curriculoBack4app.github.io
+# http://curriculoback4app.github.io
 Atividade do curriculo online com back4app
